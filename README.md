@@ -33,7 +33,6 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 
 ### 10 Optional Obsidian Plugin
 1. [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) - Fetches the webpage to extract link titles when they're pasted, creating a markdown link with the correct title set.
-2. [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
 3. [Callout Manager](https://github.com/eth-p/obsidian-callout-manager) - Creating and configuring callouts.
 4. [Charts](https://github.com/phibr0/obsidian-charts) - Easily create interactive charts for your notes. 
 5. [File Explorer Note Count](https://github.com/ozntel/file-explorer-note-count) - Shows number of elements under all available folders within file explorer.
